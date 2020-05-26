@@ -1,0 +1,30 @@
+{
+	"252049008": {
+		"vkid": "1",
+		"tlgrmid": 252049008,
+		"code": 0,
+		"payacces": false,
+		"codetype": 0
+	},
+	"404555089": {
+		"vkid": "3",
+		"tlgrmid": 404555089,
+		"code": 0,
+		"payacces": false,
+		"codetype": 0
+	},
+	"692424208": {
+		"vkid": 0,
+		"tlgrmid": 692424208,
+		"code": 0,
+		"payacces": false,
+		"codetype": 0
+	},
+	"882263804": {
+		"vkid": "4",
+		"tlgrmid": 882263804,
+		"code": 0,
+		"payacces": false,
+		"codetype": 0
+	}
+}
